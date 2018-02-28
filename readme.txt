@@ -1,6 +1,14 @@
-本系统由小邹在线制作.
-如有疑问请在小邹在线 seekmind.cn 提出
-本系统正在完善增加中,欢迎各位提出宝贵意见.
-日记本密码在diary/config.asp中修改
-原始 admin  123456 (留言本同)
-添加日记请在　点最下面的  ⌒_⺷ 　 退出管理 
+鈥r create a new repository on the command line
+
+echo "# -web.github.io" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/zhaoxiaofeng44/web.github.io.git
+git push -u origin master
+鈥r push an existing repository from the command line
+
+git remote add origin https://github.com/zhaoxiaofeng44/web.github.io.git
+git push -u origin master
+鈥r import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
